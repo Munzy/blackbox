@@ -2,7 +2,7 @@
 
 URL: https://blackbox.ipinfo.app/lookup/8.8.8.8
 
-Black Box is a replacement to a now discontinued website api that provided a way to determine if an IP address was a likely proxy. 
+Black Box is a replacement to a now discontinued website apis, http://proxy.mind-media.com/block/ and http://www.shroomery.org/ythan/proxycheck.php, that provided a way to determine if an IP address was a likely proxy. 
 
 ## Goals
 
