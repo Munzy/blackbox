@@ -1,8 +1,9 @@
-ASN, Name
-13335, "CLOUDFLARENET - Cloudflare, Inc., US"
-132892, "CLOUDFLARENET - Cloudflare, Inc., US"
-202623, "CLOUDFLARENET-LUX Cloudflare, Inc., LU"
-139242, "CSL-AS-AP Cloudflare Sydney, LLC, US"
-209242, "CLOUDFLARESPECTRUM Cloudflare, Inc., GB"
-394536, "CLOUDFLARENET-SFO - Cloudflare, Inc., US"
-395747, "CLOUDFLARENET-SFO05 - Cloudflare, Inc., US"
+ASN, Name, Notes
+13335, "CLOUDFLARENET - Cloudflare, Inc., US", "Cloudflare"
+132892, "CLOUDFLARENET - Cloudflare, Inc., US", "Cloudflare"
+202623, "CLOUDFLARENET-LUX Cloudflare, Inc., LU", "Cloudflare"
+139242, "CSL-AS-AP Cloudflare Sydney, LLC, US", "Cloudflare"
+209242, "CLOUDFLARESPECTRUM Cloudflare, Inc., GB", "Cloudflare"
+394536, "CLOUDFLARENET-SFO - Cloudflare, Inc., US", "Cloudflare"
+395747, "CLOUDFLARENET-SFO05 - Cloudflare, Inc., US", "Cloudflare"
+132721, "PING-GLOBAL-AS Ping Global Amsterdam POP ASN, NL", "DDOS Protection service out of HK. ping.com.hk"
