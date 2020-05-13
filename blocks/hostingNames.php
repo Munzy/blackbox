@@ -1,7 +1,7 @@
 <?php
 
 
-$list = file_get_contents('./hosting.csv');
+$list = file_get_contents('./raw.txt');
 $list = explode(PHP_EOL, $list);
 $hosting = array();
 foreach($list as $item){
@@ -17,7 +17,6 @@ foreach($list as $item){
 
     $item[2] = str_replace('"', '', $item[2]);
     $item[2] = str_replace(PHP_EOL, '', $item[2]);
-
     if(is_numeric($item[0])){
 
         $hosting[$item[0]] = array(
