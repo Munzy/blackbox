@@ -1,6 +1,14 @@
 <?php
 
 
+function asName($asn){
+  
+  $data = json_decode(@file_get_contents('https://asn.ipinfo.app/api/json/details/' . $asn), true);
+  
+  return $data['name'];
+
+}
+
 $list = file_get_contents('./raw.txt');
 $list = explode(PHP_EOL, $list);
 $hosting = array();
@@ -34,18 +42,14 @@ foreach($list as $item){
 
 ksort($hosting);
 
-echo "ASN, Name" . PHP_EOL;
+unlink('./hosting.csv');
+$output = fopen('./hosting.csv', 'w');
+
+fputcsv($output, array('ASN', 'Name'));
+
 foreach($hosting as $host){
-  
-  echo $host['asn'] . ', "' . $host['name'] . '"' . PHP_EOL;
 
-}
-
-function asName($asn){
-  
-  $data = json_decode(@file_get_contents('https://asn.ipinfo.app/api/json/details/' . $asn), true);
-  
-  return $data['name'];
+  fputcsv($output, array($host['asn'], $host['name']));
 
 }
 
