@@ -42,8 +42,8 @@ foreach($list as $item){
 
 ksort($hosting);
 
-unlink('./hosting.csv');
-$output = fopen('./isp.csv', 'w');
+unlink('./hosresidentialting.csv');
+$output = fopen('./residential.csv', 'w');
 
 fputcsv($output, array('ASN', 'Name'));
 
