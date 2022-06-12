@@ -11,6 +11,7 @@ Black Box is a replacement to a now discontinued website apis, http://proxy.mind
 * Rethink and utilize ASNs to map common hosting providers instead of a manual list of ips. 
 * Add TOR Exit Node IPs into the list.
 * IPv6 Support.
+* JSON supported formats.
 
 ## Blocks
 
