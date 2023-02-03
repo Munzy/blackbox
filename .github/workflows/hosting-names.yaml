@@ -1,3 +1,4 @@
+name: Get Hosting Names
 on:
   push:
     branches:
