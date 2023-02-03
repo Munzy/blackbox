@@ -4,7 +4,7 @@ on:
     branches:
       - master
     paths:
-      - 'blocks/hosting/**'
+      - 'blocks/hosting/raw.txt'
 
 jobs:
   built_and_commit:
