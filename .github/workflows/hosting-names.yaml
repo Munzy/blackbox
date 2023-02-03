@@ -28,7 +28,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source_file: 'hosting.csv'
+          source_file: 'blocks/hosting/hosting.csv'
           destination_repo: '${{ github.repository }}'
           destination_folder: '/blocks/hosting/'
           user_email: 'automation@munroenet.com'
