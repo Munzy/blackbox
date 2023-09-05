@@ -1,0 +1,35 @@
+name: Get Hosting Names
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '.github/workflows/proxy-rdns.yaml'
+
+jobs:
+  built_and_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      
+      - name: Get Gzip, and Wget
+        run: apt update & apt install wget zcat -y
+
+      - name: Download File
+        run: wget https://ipsniper.info/archive/dns_data/2023-08_rdns_ipv4.json.gz -qO /tmp/rdns_data.json.gz
+
+      - name: Search For Data
+        run: zcat /tmp/rdns_data.json.gz | grep ipvanish.com | grep -Po '(?<="ip":")[^"]*' > blocks/proxy/ipvanish.txt
+
+      - name: Push hosting.csv
+        uses: X4BNet/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source_file: 'blocks/proxy/ipvanish.txt'
+          destination_repo: '${{ github.repository }}'
+          destination_folder: '/blocks/proxy/'
+          user_email: 'automation@munroenet.com'
+          user_name: 'Automation Manager'
+          destination_branch: "master"
