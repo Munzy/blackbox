@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       
       - name: Get Gzip, and Wget
         run: apt update & apt install wget zcat -y
