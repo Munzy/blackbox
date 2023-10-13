@@ -11,7 +11,7 @@ function asName($asn){
 
 $list = file_get_contents('./raw.txt');
 $list = explode(PHP_EOL, $list);
-$hosting = array();
+$proxy = array();
 foreach($list as $item){
 
     $item = explode(',', $item);
@@ -27,7 +27,7 @@ foreach($list as $item){
     $item[2] = str_replace(PHP_EOL, '', $item[2]);
     if(is_numeric($item[0])){
 
-        $hosting[$item[0]] = array(
+        $proxy[$item[0]] = array(
 
             'asn' => $item[0],
             'name' => asName($item[0]),
@@ -40,14 +40,14 @@ foreach($list as $item){
 
 }
 
-ksort($hosting);
+ksort($proxy);
 
-unlink('./hosting.csv');
-$output = fopen('./hosting.csv', 'w');
+unlink('./proxy.csv');
+$output = fopen('./proxy.csv', 'w');
 
 fputcsv($output, array('ASN', 'Name'));
 
-foreach($hosting as $host){
+foreach($proxy as $host){
 
   fputcsv($output, array($host['asn'], $host['name']));
 
