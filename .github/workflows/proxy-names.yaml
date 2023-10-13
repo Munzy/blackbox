@@ -28,9 +28,9 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source_file: 'blocks/hosting/hosting.csv'
+          source_file: 'blocks/proxy/asn/proxy.csv'
           destination_repo: '${{ github.repository }}'
-          destination_folder: '/blocks/hosting/'
+          destination_folder: '/blocks/proxy/asn/'
           user_email: 'automation@munroenet.com'
           user_name: 'Automation Manager'
           destination_branch: "master"
