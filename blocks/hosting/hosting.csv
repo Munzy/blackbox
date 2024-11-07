@@ -97,6 +97,8 @@ ASN,Name
 7850,TN-ASN-CL
 7859,PAIR-NETWORKS
 7979,SERVERS-COM
+8068,MICROSOFT-CORP-MSN-AS-BLOCK
+8069,MICROSOFT-CORP-MSN-AS-BLOCK
 8075,MICROSOFT-CORP-MSN-AS-BLOCK
 8100,ASN-QUADRANET-GLOBAL
 8251,"NFX_ZSPO - FreeTel, s.r.o."
@@ -1400,6 +1402,7 @@ ASN,Name
 44685,"DEDSERVERNET - Patron Technology Persia Ltd"
 44709,"CLOUDWEBMANAGE-IL - O.M.C. COMPUTERS &amp; COMMUNICATIONS LTD"
 44716,"DHOSTING-NET - D-hosting die Rackspace &amp; Connectivity GmbH"
+44803,"WEBDOCK-AS - Webdock.io ApS"
 44806,"KINAMO-BACKBONE - Kinamo N.V."
 44812,"IPSERVER-RU-NET - IP SERVER LLC"
 44853,"TELEHOST - Uplink SRL"
@@ -1943,6 +1946,7 @@ ASN,Name
 55933,"CLOUDIE-AS-AP Cloudie Limited"
 55951,"LHDNM-MY Lembaga Hasil Dalam Negeri Malaysia"
 55967,"BAIDU Beijing Baidu Netcom Science and Technology Co."
+55990,"HWCSNET Huawei Cloud Service data center"
 55994,"RUISU-51IDC Shanghai ruisu Network Technology Co."
 56005,"FASTIDC Zhengzhou Fastidc Technology Co."
 56050,--MISSING--
@@ -2528,6 +2532,7 @@ ASN,Name
 134333,"SSBROADBAND-AS SS BROADBAND SERVICES PVT LTD"
 134335,"AIRCONNECT-AS Air Connect Internet Services Pvt ltd"
 134343,"VIGHNAHAR-AS VIGHNAHARTA TELEINFRA PRIVATE LIMITED"
+134351,"LEASEWEB-AS-AP Leaseweb Japan K.K."
 134366,"CCHL-AS-AP Cloud Computing HK Limited"
 134383,"PUST-AS-AP Pabna University of Science and Technology"
 134409,"PUBLICDNS-AS-AP PublicDNS-Global AnyCast Network"
@@ -2873,6 +2878,7 @@ ASN,Name
 140288,"TOAONLINE-AS-AP Toa Online"
 141039,"PACKETHUBSA-AS-AP PacketHub S.A."
 141995,"CAPL-AS-AP Contabo Asia Private Limited"
+142036,"HOSTEONS-AS-AP Hosteons Pte. Ltd."
 149020,"WEBHORIZON-AS-AP WebHorizon Internet Services"
 196645,"HOSTPRO-AS - HOSTPRO LAB LLC"
 196653,"ASBESTNETCZ - BEST-NET s.r.o."
@@ -3532,6 +3538,7 @@ ASN,Name
 213339,"ISAAC-MCFADYEN - Isaac Charles McFadyen"
 213340,"MRIRW - eTOP sp. z o.o."
 213369,"SFERA-AS - Sfera Telecom LLC"
+214036,
 215859,"HETZNER-CLOUD4-AS - Hetzner Online GmbH"
 216071,"VDSINA - SERVERS TECH FZCO"
 262170,Visualhosting.net
