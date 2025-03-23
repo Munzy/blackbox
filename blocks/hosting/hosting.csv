@@ -840,6 +840,7 @@ ASN,Name
 30870,"TRANS-IX-AS - Trans-iX B.V."
 30878,
 30889,"WAYCOM-AS - ADISTA SAS"
+30893,"NOACKHOSTING-AS - No ACK Group Holding AB"
 30900,"WEBWORLD-AS - Sternforth Ltd. trading as WebWorld"
 30962,"COMTRANCE-AS - comtrance service GmbH"
 30968,"INFOBOX-AS - LLC &quot;ASTRA CLOUD&quot;"
@@ -3072,7 +3073,7 @@ ASN,Name
 200983,
 201011,"CORE-BACKBONE - Core-Backbone GmbH"
 201039,
-201056,"F-SECURE-AS-GB - WithSecure Oyj"
+201056,
 201064,"IDEALHOSTING - Ideal Hosting Teknoloji A.S."
 201071,"VISL-IE - Virtual Internet Services Limited"
 201079,"GARANTISERVER-COM - AKA Bilisim Yazilim Arge Ins. Taah. San. Tic. A.S."
