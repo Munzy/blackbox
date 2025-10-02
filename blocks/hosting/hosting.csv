@@ -311,7 +311,7 @@ ASN,Name
 14902,"-Reserved AS-"
 14935,MONTICELLO
 14956,ROUTERHOSTING
-14986,ULTRAHOST
+14986,"-Reserved AS-"
 14987,RETHEMHOSTING
 14992,CRYSTALTECH
 15003,LEASEWEB
@@ -564,7 +564,7 @@ ASN,Name
 22915,"-Reserved AS-"
 23033,WOW
 23052,IHOST-SOLUTIONS-1
-23108,QUANTACT
+23108,"-Reserved AS-"
 23273,HOSTP-LA
 23295,NSWL-3-23295
 23338,ASN-DCS-01
@@ -1017,7 +1017,7 @@ ASN,Name
 35196,"IH-TRANSIT-AS - FIRST SERVER LIMITED"
 35206,"NOVATREND-AS - NovaTrend Services GmbH"
 35251,ANTI-DDOS
-35277,"LLHOST-INC-SRL - LLHOST INC. SRL"
+35277,
 35278,"SPRINTHOST - SPRINTHOST.RU LLC"
 35295,"PETERHOST-PITER - JSC &quot;RU-CENTER&quot;"
 35329,"GODADDY - Host Europe GmbH"
@@ -2159,6 +2159,7 @@ ASN,Name
 59728,
 59729,"ITL-BG - GREEN FLOID LLC"
 59764,
+59787,"WEBHS - WebSP - Comercio e Prestacao de Servicos Informaticos, Lda"
 59791,
 59795,"PERFGRID - Lucas Rolff trading as PerfGrid"
 59796,"STORMWALL-AS - StormWall s.r.o."
@@ -2474,7 +2475,7 @@ ASN,Name
 132883,"TOPWAY-AS-AP TOPWAY GLOBAL LIMITED"
 132891,"STM-AS-AP SARFRAZ TEXTILE MILLS PRIVATE LIMITED"
 132892,"CLOUDFLARE Cloudflare"
-132899,"USL-AS-AP Network Solutions Ltd"
+132899,--MISSING--
 132932,"ITTHINGS-AS It Things"
 132937,"DIADEM-AS Diadem Technologies Pvt. Ltd."
 132938,"SVIPLISP-AS-IN Shri Vinayagaa Internet Pvt. Ltd."
@@ -3052,7 +3053,7 @@ ASN,Name
 200373,"DREI-K-TECH-GMBH - 3xK Tech GmbH"
 200411,"OT-PULSATION-2-AS - CELESTE SAS"
 200420,"RFMEGA-NET - &quot;MEGA-NET&quot; LLC"
-200440,"OCDE - CRATIS d.o.o."
+200440,
 200441,"CRIMEADC-NET - Nikita Sergienko"
 200449,"QRATOR-CZ - Qrator Labs CZ s.r.o."
 200466,"TCT-AS - Intercom LLC"
@@ -3253,7 +3254,7 @@ ASN,Name
 203904,"DECBS - Domain Earth for Communication and Banking Solutions with Limited Liability"
 203944,"LU-DIDATA - NTT Luxembourg PSF S.A."
 203975,
-203988,"ACTIVEHOST-LT-AS - &quot;ActiveHost RU&quot; LLC"
+203988,
 203999,"GEEKYWORKS - Geekyworks IT Solutions Pvt Ltd"
 204026,"AS-SZATMAR-TELEKOM - Szatmar-Telekom Kft."
 204039,"CITYTELECOM-VOIP-MSK-AS - Citytelecom LLC"
@@ -3517,7 +3518,7 @@ ASN,Name
 209687,"KVANT2 - Igra-Service LLC"
 209713,"YRA-MURM - Game Insight UAB"
 209737,"AS209737 - Meric Internet Teknolojileri A.S."
-209741,"TSAN - Toesegaran Shabakeh Arseh Novin Ltd"
+209741,
 209758,"KRASPOD-AS - CryptoCentre LLC"
 209782,"DPMOBINIDC - Dade Pardazi Mobinhost Company Ltd"
 209789,"SENTOKAREV - Nikolay Olegovich Tokarev"
@@ -3525,7 +3526,7 @@ ASN,Name
 209825,"IBNET - Katanytsia Lyubov Viktorivna"
 209829,"GREENHOST-US - Greenhost BV"
 209836,"NHCO - Toesegaran Shabakeh Arseh Novin Ltd"
-209837,
+209837,"SLYDE - Slyde ApS"
 209853,"VERIDYEN - Veridyen Bilisim Teknolojileri Sanayi ve Ticaret Limited Sirketi"
 209854,"CYBERZONEHUB - Cyberzone S.A."
 209862,"SKBKI-AS - Michal Skibicki"
