@@ -28,4 +28,10 @@ If you find a Proxy IP or a hosting providers ASN. Please create a commit and ad
 
 This project is still in beta, and we are working on improving it further. Help me test it out!
 
- 
+## License
+
+Data (*.txt, *.csv) in this repository is licensed under Attribution 4.0 International
+   ([LICENSE-CC-BY-4.0](LICENSE-CC-BY-4.0) or https://creativecommons.org/licenses/by/4.0/deed.en).
+   
+Code (*.php) in this repository is licensed under the MIT license
+   ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT).
