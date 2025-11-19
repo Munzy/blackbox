@@ -4,6 +4,10 @@ URL: https://blackbox.ipinfo.app/
 
 Black Box is a replacement to a now discontinued website apis, http://proxy.mind-media.com/block/ and http://www.shroomery.org/ythan/proxycheck.php, that provided a way to determine if an IP address was a likely proxy. 
 
+## Community Forum
+
+If you need help, have questions, or want to share advice the community forum is the place to be: https://www.hostvein.net/forums/ipinfo-app.7/
+
 ## Goals
 
 * Fast! 
