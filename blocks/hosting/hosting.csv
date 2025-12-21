@@ -536,7 +536,7 @@ ASN,Name
 22211,INTERNAP-FCP
 22264,CONTE-25-BLA
 22275,SECURENET-SYSTEMS
-22295,
+22295,ADVIN
 22302,INOC
 22363,PHMGMT-AS1
 22384,PERFORMIVE-VNI
@@ -624,7 +624,7 @@ ASN,Name
 24785,"JOINTTRANSIT-AS - Broadband Hosting B.V."
 24806,"INTERNET-CZ - INTERNET CZ, a.s."
 24851,"UK-NETCETERA - Netcetera Ltd."
-24875,
+24875,"NOVOSERVE-AS - NovoServe B.V."
 24898,"IPX-AS24898 - NorthC Deutschland GmbH"
 24931,
 24935,"ATE-AS - Eurofiber France SAS"
@@ -971,7 +971,7 @@ ASN,Name
 34173,"SAFEBRANDS-AS - SafeBrands S.A.S."
 34222,"ZONER-AS - ZONER a.s."
 34233,"SUPERIOR-AS - Superior B.V."
-34235,
+34235,"ITINSELLCLOUD-AS - ITINSELL CLOUD SAS"
 34240,"MANITU - manitu GmbH"
 34241,"NCT-AS - New Communication Technologies LLC"
 34268,
@@ -1157,7 +1157,7 @@ ASN,Name
 39324,"MEDIAM-AS - Mediam Group Oy"
 39325,
 39326,"HSO-GROUP - Syntura Group Limited"
-39345,"BTS-AS - BTS TELECOM &amp; Hosting SRL"
+39345,"BTS-AS - BTS TELECOM SRL"
 39347,"SELL-AS - STYLISH BY A&amp;L SRL"
 39351,"ESAB-AS - 31173 Services AB"
 39368,"SERVERIR - Mahdiar Rafiee"
@@ -1199,7 +1199,6 @@ ASN,Name
 39832,"NO-OPERA - Opera Norway AS"
 39839,"DK-PUNKTUM - Punktum dk A/S"
 39845,"LV-2CLOUD-ASN16 - 2 Cloud Ltd."
-39869,"LIVENET-PL - Livenet Sp. z o.o."
 39882,"VISL - Virtual Internet Services Limited"
 39889,"DT-AS - High Sec Hosting HSDC AB"
 39921,"DE-RACKSPACE - Rackspace Ltd."
@@ -1622,7 +1621,7 @@ ASN,Name
 49126,"AS49126 - IHS Kurumsal Teknoloji Hizmetleri A.S"
 49143,
 49184,"MEDIASERVICE-AS - MediaService Ltd."
-49189,"ILJOJANET-AS - Joonas Ahonen"
+49189,"ILJOJANET-AS - Joonas Ahonen trading as ILJOJA Networks"
 49195,
 49227,"TCI-ANYCAST-NET - Ukrainian Internet Names Center LTD"
 49282,"FICOLO - Ficolo Oy"
@@ -1664,7 +1663,7 @@ ASN,Name
 49834,"BESTHOSTING - Best Hosting Company, LLC"
 49857,"INCLUST-AS - Inclust System Ltd."
 49877,"AS49877-ASTORE - ASTOR TRADING LLC"
-49879,"HOSTHANE - ISIK Bilgisayar Internet ve Yayincilik Hizmetleri"
+49879,"HOSTHANE - Dincer Isik trading as ISIK Bilgisayar Internet ve Yayincilik Hizmetleri"
 49932,"R19-AS - State Autonomous Institution of Khakass Republic Center of Informatization and New Technologies of Khakass Republic"
 49949,"COMPLIOR - Complior AB"
 49981,"WORLDSTREAM - WorldStream B.V."
@@ -2104,7 +2103,7 @@ ASN,Name
 58797,"CARPATHIAHOSTING-HK Carpathia Hosting"
 58854,"KAOPY Kaopu Cloud"
 58922,"FMH-AS-AP Fujifilm Microchannel Hosting Pty Ltd"
-58923,
+58923,"INTERCLOUDLTD-AS-AP InterCloud ltd"
 58927,"MDGIT-AS-AP M.D.G. IT Pty Ltd"
 58930,"MTGCL-AS-AP My Telecom Group Company Limited"
 58936,"MHAL-AS-AP Managed Hosted Applications Limited"
@@ -2340,7 +2339,7 @@ ASN,Name
 62729,ASMALLORANGE1
 62744,QUINTEX
 62755,DOTBLOCK-1
-62756,
+62756,DOTBLOCK-2
 62838,REPRISE-HOSTING
 62874,WEB2OBJECTS
 62899,CLARITYHS
@@ -2902,7 +2901,7 @@ ASN,Name
 140288,"TOAONLINE-AS-AP Toa Online"
 141039,"PACKETHUBSA-AS-AP PacketHub S.A."
 141995,"CAPL-AS-AP Contabo Asia Private Limited"
-142036,
+142036,"HOSTEONS-AS-AP Hosteons Pte. Ltd."
 147049,"PACKETHUBSA-AS-AP PacketHub S.A."
 149020,"WEBHORIZON-AS-AP WebHorizon Internet Services"
 152390,"IDNIC-INTERCLOUD-AS-ID PT Intercloud Digital Inovasi"
@@ -3356,7 +3355,7 @@ ASN,Name
 205952,"RUSONYX-AERO - LLC &quot;ASTRA CLOUD&quot;"
 206045,"BG-MM2NETWORK - MM2-Network Ltd"
 206079,"SBSHOSTING - MH HOLDING AF 1. JUNI 2009 ApS"
-206092,"SECFIREWALLAS - Internet Utilities Europe and Asia Limited"
+206092,"SECFIREWALLAS - F.N.S. HOLDINGS LIMITED"
 206102,"ASPL - Advanced Software Production Line, S.L."
 206110,"AS-1CL - 1 Cloud Lab s.r.o."
 206170,"INLEED - Yelles AB"
@@ -3604,7 +3603,7 @@ ASN,Name
 262448,"DIALHOST INTERNET EIRELI"
 262449,"TS TECNOLOGIA E SISTEMAS EM REDES LTDA"
 262451,"Prefeitura Municipal de Londrina"
-262452,
+262452,"VCNETWORK SOLUCOES TECNOLOGICA"
 262497,"JNNET TELECOMUNICACOES EIRELI - EPP"
 262510,"NETQUALY Telecomunicacoes LTDA."
 262518,"LWSA SA"
@@ -3762,7 +3761,7 @@ ASN,Name
 264282,"-Reserved AS-"
 264291,"Engie Brasil Energia S A"
 264296,"Ministerio Publico do Estado da Bahia"
-264302,
+264302,"PIRES &amp; PAULA LTDA"
 264307,"-Reserved AS-"
 264333,"JN TECNOLOGIA LTDA-ME"
 264334,"MarapelNet Telecom"
@@ -3813,7 +3812,7 @@ ASN,Name
 264865,"OBA FIBRA"
 264868,"SCTURBO INFORMATICA LTDA."
 264869,"SPEED MAX TELECOMUNICACOES LTDA ME"
-264870,"Ipnet Comunicacoes LTDA"
+264870,
 264880,"RF Connect Provedor de Acesso LTDA"
 264881,"Rafael Tulio Moteiro Costa"
 264884,"-Reserved AS-"
@@ -3872,7 +3871,7 @@ ASN,Name
 265273,"FUNDACAO DE ENS. EURIPIDES SOARES DA ROCHA"
 265276,"SPEED _ MAAX"
 265281,"tecbuy telecomunicacoes ltda - me"
-265286,
+265286,"Megas Net Telecomunicacao Ltda"
 265287,"GIGANET TECNOLOGIA E TELECOMUNICACAO LTDA"
 265291,"MP NET"
 265298,"GR TELECOMUNICACOES LTDA ME"
@@ -4487,7 +4486,7 @@ ASN,Name
 269113,"UNO TELECOM LTDA"
 269120,"Internet Facil"
 269125,"Netgaucha Servicos de Internet Eireli - ME"
-269133,"Fundacao Regional Integrada - Campus Santo Angelo"
+269133,
 269140,"VRM Telecom"
 269145,"WNKBR TELECOM"
 269150,"DiskNet Internet Banda Larga"
@@ -4518,7 +4517,7 @@ ASN,Name
 269254,"SOL TELECOM LTDA"
 269259,"-Reserved AS-"
 269260,"Fabreu Telecom &amp; Servicos"
-269262,"CONEXAO UPNET"
+269262,
 269263,"Mundo Net Fibra"
 269267,"ProLink Internet Fibra"
 269269,"V1 Informatica"
@@ -4858,7 +4857,7 @@ ASN,Name
 395467,K-ECOMMERCE
 395512,GLOBAL2016
 395532,1P-WSS
-395681,WAVE-AMERICA
+395681,"-Reserved AS-"
 395723,LIGHTSPEEDHOSTING1
 395747,CLOUDFLARENET-SFO05
 395776,FEDERAL-ONLINE-GROUP-LLC
