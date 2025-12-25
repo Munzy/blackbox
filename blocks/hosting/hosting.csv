@@ -26,7 +26,7 @@ ASN,Name
 3361,DF-TUKWILA01
 3408,AMC-NETWORKS
 3462,"HINET Data Communication Business Group"
-3488,"JAXANET Information Systems Department"
+3488,"JAXANET Japan Aerospace Exploration Agency"
 3491,CONSOLE-CONNECT-ASN
 3549,LVLT-3549
 3561,CENTURYLINK-LEGACY-SAVVIS
@@ -89,7 +89,7 @@ ASN,Name
 7540,"HKCIX-AS-AP HongKong Commercial Internet Exchange"
 7589,"TWELVE99-ENTERPRISE-SERVICES Arelion Sweden AB"
 7595,"READYSPACE-SG Readyspace Cloud Services"
-7598,"FORCEPOINT-CLOUD-APAC-AS Forcepoint Cloud Services - AsiaPac region"
+7598,"FUL-APAC-AS Forcepoint UK Limited"
 7678,"PROX Prox System Design Inc."
 7684,"SAKURA-A SAKURA Internet Inc."
 7726,FITC-AS
@@ -451,7 +451,7 @@ ASN,Name
 19531,NODESDIRECT
 19538,LUXOR
 19551,INCAPSULA
-19620,"-Reserved AS-"
+19620,PCCH-CARTER
 19624,SERVERROOM
 19691,888-
 19693,CENTRILOGIC-ASN
@@ -511,7 +511,7 @@ ASN,Name
 21217,"SAFEHOSTNET - Infrastructure Switzerland Colo Sarl"
 21260,"POSITIVE-INTERNET-UK-AS - The Positive Internet Company Ltd"
 21288,"SPRINTNET - &quot;SPRINT&quot; S.A."
-21321,"NETUITY-AS - John Macleod trading as Howick Digital"
+21321,"NETUITY-AS - BITNIFTY LTD"
 21342,"AKAMAI-ASN2 - Akamai International B.V."
 21350,"INTERSPACE-AS - Interspace Ltd."
 21396,"NETCONNEX - NetConnex Broadband Ltd."
@@ -885,10 +885,10 @@ ASN,Name
 31659,"BELOW-ZERO - Below Zero Hosting Ltd."
 31673,"UNISERVER-AS - Uniserver Internet B.V."
 31698,
-31703,"INTERMAX-AS - Mobil-group ltd"
+31703,"MOBIL-AS - Mobil-group ltd"
 31708,"COREIX-UK-AS - Coreix Ltd"
 31727,"NODE4-AS - Node4 Limited"
-31795,CORESITEDTLA
+31795,"-Reserved AS-"
 31798,DATACITY
 31815,MEDIATEMPLE
 31863,DACEN-2
@@ -1169,6 +1169,7 @@ ASN,Name
 39451,"IOMART-AS - IOMART MANAGED SERVICES LIMITED"
 39458,"REALHOSTS-AS - Real Hosts Limited"
 39466,"ASSABZ - Ahang Rayan Malayer Co. LTD"
+39486,"HOSTROYALE - HostRoyale Technologies Pvt Ltd"
 39494,"RU-CENTER-AS - JSC &quot;RU-CENTER&quot;"
 39517,
 39519,"MYLOC-ENTERPRISE - WIIT AG"
@@ -1542,7 +1543,7 @@ ASN,Name
 47543,"ATOM86-AS - atom86 BV"
 47544,"IQPL-AS - IQ PL Sp. z o.o."
 47549,"HOSTINGSYSTEMS-AS - Hosting Systems Ltd"
-47550,"NETLIFE-AS - FOP Bratinov Oleg Vyacheslavovich"
+47550,"NETLIFE-AS - Bratinov Oleg Vyacheslavovich"
 47577,"IXBT-AS - Pravilnyy khosting Ltd"
 47582,"ANSONNET-AS-UK - ANSON NETWORK LIMITED"
 47583,"AS-HOSTINGER - Hostinger International Limited"
@@ -1952,7 +1953,7 @@ ASN,Name
 55688,"BEON-AS-ID PT. Beon Intermedia"
 55720,"GIGABIT-MY Gigabit Hosting Sdn Bhd"
 55746,"WITT-AS-AP Western Institute of Technology at Taranaki"
-55761,--MISSING--
+55761,"-Reserved AS-"
 55799,"IPTELECOM-AP IPTELECOM ASIA"
 55803,"HOSTOPIA-AU Hostopia Australia Web Pty Ltd"
 55897,"SAKURA-F SAKURA Internet Inc."
@@ -2262,7 +2263,7 @@ ASN,Name
 61439,
 61440,"Internet Utilities LATAM Ltd."
 61493,"InterBS S.R.L. BAEHOST"
-61500,"ParkNet SRL"
+61500,
 61509,"CORREA RADIO VISION S.R.L."
 61585,"MINISTERIO DA SAUDE - INSTITUTO NACIONAL DE CANCER"
 61590,"LIDER INTERNET LTDA"
@@ -2544,7 +2545,7 @@ ASN,Name
 134176,"CLOUDIE-AS-AP Cloudie Limited"
 134196,"ANYUN-INTERNET-TECHNOLOGY-HK-CO-LIMITED ANYUN INTERNET TECHNOLOGY HK CO."
 134221,"NLTD-AS-AP NEXT LINK TECHNOLOGY DEVELOPMENT HK CO."
-134239,--MISSING--
+134239,"-Reserved AS-"
 134257,"HOSTAXIS-AS-IN Hostaxis Network Private Limited"
 134271,"JKMINFO-AS-IN JKM Infotech"
 134290,"ARROW46-AS Arrow Touch Wireless Internet Private Limited"
@@ -2681,7 +2682,7 @@ ASN,Name
 136527,"NANTAWAT-AS-AP CLOUDFOREST.ME"
 136557,"HOST-AS-AP Host Universal Pty Ltd"
 136563,"IRANETCYBERCAFE-AS-AP Iranet Cyber Cafe"
-136600,--MISSING--
+136600,"-Reserved AS-"
 136633,"SISP-AS-IN Sanhati Infocom Services Private Limited"
 136655,"IPCONIPL-AS-IN IPCON INTERNATIONAL PRIVATE LIMITED"
 136670,"SKYLINE0-AS Skyline Broadband Pvt. Ltd."
@@ -2879,7 +2880,7 @@ ASN,Name
 139686,"FRCHI-AS-AP Free Range Cloud Hosting Inc"
 139716,"BMIT-AS-AP B.M IT and Cyber Place"
 139736,"APEXHOST-AS-AP Apexhost Pty Ltd"
-139773,--MISSING--
+139773,"BANBEIS-AS-AP Bangladesh Bureau of Educational Information and Statistics"
 139786,"RAINBOW-AS-AP Rainbow Network"
 139792,"BROWSERWORLDIT-AS-AP Browser World IT"
 139854,"DIGINET-AS-AP Digi Net"
@@ -2894,7 +2895,7 @@ ASN,Name
 140077,"CNETBROADBAND-AS-AP C Net Broadband"
 140093,"VIRTUAL-AS-AP Virtual Communications"
 140103,"ITL-AS-AP Invention Technologies Limited"
-140107,--MISSING--
+140107,"-Reserved AS-"
 140108,"KRISHNAI-AS-IN Krishna Internet Service Private Limited"
 140214,"GPIL-AS-AP Create Prominent Information Limited"
 140244,"INVISIONIT-AS-AP Invision IT"
@@ -2995,7 +2996,7 @@ ASN,Name
 199081,"LANCOM - Lancom Ltd."
 199089,
 199098,"TANHOST-UA - LLC &quot;TANHOST&quot;"
-199102,"PERSIK - LTD Personal Interactive Communications"
+199102,
 199103,"MAKLAUT-AS - SIA Maklaut"
 199129,
 199202,"MOVIEMENT-LNK - Moviement srl"
@@ -3209,7 +3210,7 @@ ASN,Name
 202984,"TEAM-HOST - Chernyshov Aleksandr Aleksandrovich"
 202987,"FNS - Fiber Networks Services S.A.R.L"
 202991,"NETIN - Netdirekt A.S."
-203002,
+203002,"ANVOLE-AS - ANVOLE SAS"
 203004,"GLAVTEL - GlavTel ltd"
 203008,"UNICAST - Unicast, Ltd."
 203020,"HOSTROYALE - HostRoyale Technologies Pvt Ltd"
@@ -3391,7 +3392,7 @@ ASN,Name
 206820,"NICE-TELECOM-AS - Nice Telecom LLC"
 206873,"GALAXYDATA - GalaxyStar LLC"
 206892,"RENDSZERINF - Rendszerinformatika Zrt."
-206898,"INSTANCE-GROUP - Oliver Hjort Nielsen trading as Instance Group"
+206898,"INSTANCE-GROUP - Oliver Hjort Nielsen"
 206991,"IXIR - Iksir Internet Hizmetleri A.S."
 207002,"COPAHOST - Gallas Carvalho Internet Unipessoal Lda."
 207027,"EXIMIUS-AS - LLC Eximius"
@@ -3563,7 +3564,7 @@ ASN,Name
 210429,"HIZAKURA-NL - Hizakura B.V."
 210558,"SERVICES-1337-GMBH - 1337 Services GmbH"
 210779,"BZL - BREEZLE LLC"
-211619,"MAXKO - MAXKO d.o.o."
+211619,
 212027,"PEBBLEHOST - PebbleHost Ltd"
 212238,"CDNEXT - Datacamp Limited"
 212317,"HETZNER-CLOUD3-AS - Hetzner Online GmbH"
@@ -3785,7 +3786,7 @@ ASN,Name
 264458,"SMA Networks Informatica LTDA-ME"
 264462,"Comercial Conecte Sem Fio Ltda me"
 264467,"TRIBUNAL SUPERIOR DO TRABALHO"
-264476,"Tribunal Regional do Trabalho 13a. Regiao"
+264476,
 264481,"TRIBUNAL REGIONAL DO TRABALHO - 8A REGIAO"
 264494,"Connect-Up Provedor"
 264503,"provedor r costa internet ltda"
@@ -3812,7 +3813,7 @@ ASN,Name
 264865,"OBA FIBRA"
 264868,"SCTURBO INFORMATICA LTDA."
 264869,"SPEED MAX TELECOMUNICACOES LTDA ME"
-264870,
+264870,"Ipnet Comunicacoes LTDA"
 264880,"RF Connect Provedor de Acesso LTDA"
 264881,"Rafael Tulio Moteiro Costa"
 264884,"-Reserved AS-"
@@ -4486,7 +4487,7 @@ ASN,Name
 269113,"UNO TELECOM LTDA"
 269120,"Internet Facil"
 269125,"Netgaucha Servicos de Internet Eireli - ME"
-269133,
+269133,"Fundacao Regional Integrada - Campus Santo Angelo"
 269140,"VRM Telecom"
 269145,"WNKBR TELECOM"
 269150,"DiskNet Internet Banda Larga"
@@ -4517,7 +4518,7 @@ ASN,Name
 269254,"SOL TELECOM LTDA"
 269259,"-Reserved AS-"
 269260,"Fabreu Telecom &amp; Servicos"
-269262,
+269262,"CONEXAO UPNET"
 269263,"Mundo Net Fibra"
 269267,"ProLink Internet Fibra"
 269269,"V1 Informatica"
@@ -4896,11 +4897,11 @@ ASN,Name
 397666,HOSTROUND-LLC
 397698,CCB
 397702,SSSS
-397834,"-Reserved AS-"
+397834,ALIMAK-GROUP-IPV6
 397887,HOSTMYCALLS-01
 397919,NETSPI-CORPORATE
 397964,HYVE-MANAGED-HOSTING
-398083,
+398083,YALE-AS
 398101,GO-DADDY-COM-LLC
 398107,GO-DADDY-COM-LLC
 398131,LUCASFILM-LA
