@@ -82,7 +82,7 @@ ASN,Name
 7296,AS-DYNASCALE-LAX
 7349,AS-TIERP-7349
 7393,CYBERCON
-7469,--MISSING--
+7469,"-Reserved AS-"
 7489,"HOSTUS-GLOBAL-AS HostUS"
 7506,"INTERQ GMO Internet Group"
 7514,"MEX Computer Engineering &amp; Consulting"
@@ -2558,7 +2558,7 @@ ASN,Name
 134351,"LEASEWEB-AS-AP Leaseweb Japan K.K."
 134366,"CCHL-AS-AP Cloud Computing HK Limited"
 134383,"PUST-AS-AP Pabna University of Science and Technology"
-134409,--MISSING--
+134409,"-Reserved AS-"
 134437,"THESKYTRADERSPVTGM-AS-AP The Sky Traders Pvt Ltd"
 134450,"HOSTROYALETECHNOLOGIES-AS-AP HostRoyale Technologies Pvt Ltd"
 134451,"NME-INDONESIA-AS-AP NewMedia Express Pte Ltd"
@@ -2800,7 +2800,7 @@ ASN,Name
 138403,"BISMILLAENTERPRISE-AS-AP Bismilla Enterprise"
 138415,"YANCYLIMITED-AS-HK Yancy Limited"
 138431,"MSNC-AS-AP Md Mazaher Hossain"
-138497,--MISSING--
+138497,"-Reserved AS-"
 138500,"FIBERTEL2-AS-AP FIBERTEL FIBERNET PVT. LTD"
 138520,"LNSPL-AS-AP Lalu Network Solutions Private Limited"
 138538,"NANBIAN-VPSORGLOBAL-AS VPSOR-GLOBAL"
@@ -2900,6 +2900,7 @@ ASN,Name
 140214,"GPIL-AS-AP Create Prominent Information Limited"
 140244,"INVISIONIT-AS-AP Invision IT"
 140288,"TOAONLINE-AS-AP Toa Online"
+140543,"READYDEDIS-AS-AP ReadyDedis"
 141039,"PACKETHUBSA-AS-AP PacketHub S.A."
 141995,"CAPL-AS-AP Contabo Asia Private Limited"
 142036,"HOSTEONS-AS-AP Hosteons Pte. Ltd."
@@ -3661,7 +3662,7 @@ ASN,Name
 263093,"Hostgator Brasil Ltda"
 263098,"Eyes Nwhere Sistemas Inteligentes de Imagem Ltda"
 263108,"OPANET TELECOMUNICACOES LTDA - ME"
-263163,
+263163,"JR LINK PROVEDOR DE INTERNET VIA RARIO LTDA"
 263164,"-Reserved AS-"
 263166,"-Reserved AS-"
 263237,"PowerHost Telecom SPA"
