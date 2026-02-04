@@ -11,7 +11,7 @@ ASN,Name
 1824,"HOSTING - Vertisoft"
 1837,"NCIA - NATO Communications and Information Agency"
 2121,"RIPE-MEETING-AS - Reseaux IP Europeens Network Coordination Centre (RIPE NCC)"
-2514,"INFOSPHERE NTT PC Communications"
+2514,
 2554,"IDCF2554 IDC Frontier Inc."
 2635,"AUTOMATTIC - Automattic"
 2734,"CORESITE - CoreSite"
@@ -1371,7 +1371,7 @@ ASN,Name
 43541,"VSHOSTING - VSHosting s.r.o."
 43578,"BITNAP - TEMPLUS BARCELONA S.L."
 43588,"LEVEL7-AS - IM Level 7 SRL"
-43620,"SYAN - Digital Space Group Limited"
+43620,
 43639,"AKAMAI-AMS2 - Akamai International B.V."
 43652,"AS100LIMITE - EDGOO NETWORKS UNIPESSOAL LDA"
 43711,
@@ -2185,7 +2185,6 @@ ASN,Name
 60144,"THREE-W-INFRA-AS - 3W Infra B.V."
 60154,"CONNECTRIA-ASN-1 - Connectria, LLC"
 60177,"PARI - Limited Liability Company BUKMEKERSKAYA KONTORA PARI"
-60192,"RZN-AS - JSC &quot;Ufanet&quot;"
 60230,"NETERRA - Neterra Ltd."
 60253,"GODADDY-CGN - Host Europe GmbH"
 60281,"WEBAIR-INTERNET-UK - WEBAIR INTERNET DEVELOPMENT COMPANY LLC"
