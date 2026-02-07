@@ -11,7 +11,7 @@ ASN,Name
 1824,"HOSTING - Vertisoft"
 1837,"NCIA - NATO Communications and Information Agency"
 2121,"RIPE-MEETING-AS - Reseaux IP Europeens Network Coordination Centre (RIPE NCC)"
-2514,
+2514,"INFOSPHERE NTT PC Communications"
 2554,"IDCF2554 IDC Frontier Inc."
 2635,"AUTOMATTIC - Automattic"
 2734,"CORESITE - CoreSite"
@@ -557,7 +557,7 @@ ASN,Name
 22720,"RACKSPACE-AUS - Rackspace Hosting"
 22769,"VSCU-1 - Valley Strong Credit Union"
 22781,"STRTEC - Strong Technology"
-22822,LLNW
+22822,"LLNW - Limelight Networks"
 22878,"ASACENET1 - ACENET"
 22900,"ITRON - ITRON INC."
 22903,"EDGE-HOSTING - Databank Holdings"
@@ -614,7 +614,7 @@ ASN,Name
 24558,"AVBIHNET-AS-IN Internet Hosting Service Provider to the Aditya"
 24611,"DCLUX-AS - Datacenter Luxembourg S.A."
 24642,"NL-CAVEO - Caveo Internet BV"
-24679,
+24679,"SSERV-AS - kyberio GmbH"
 24700,"PARITETWEB-AS - WEB3 Leaders INC"
 24723,"ATMAN-OFFICE-INTERNET-AS - Atman Sp. z o.o."
 24724,"ATMAN-FOREIGN-AS - Atman Sp. z o.o."
@@ -1371,7 +1371,7 @@ ASN,Name
 43541,"VSHOSTING - VSHosting s.r.o."
 43578,"BITNAP - TEMPLUS BARCELONA S.L."
 43588,"LEVEL7-AS - IM Level 7 SRL"
-43620,
+43620,"SYAN - Digital Space Group Limited"
 43639,"AKAMAI-AMS2 - Akamai International B.V."
 43652,"AS100LIMITE - EDGOO NETWORKS UNIPESSOAL LDA"
 43711,
@@ -2363,7 +2363,7 @@ ASN,Name
 63727,"HWCSNET Huawei"
 63730,"VNSO-AS-VN VNSO TECHNOLOGY COMPANY"
 63731,"TPTECO-AS-VN TIEN PHAT TECHNOLOGY CORPORATION"
-63734,
+63734,"GREENCLOUDVPS-AS-VN 365 Online technology joint stock company"
 63740,"TOCDOSOVN-AS-VN TOCDOSOVN-"
 63759,"TADU-AS-VN TaDu Joint Stock Company"
 63760,"AZDIGI-AS-VN AZDIGI Corporation"
@@ -3514,7 +3514,6 @@ ASN,Name
 209622,"UPRESS-DRB - uPress Inc"
 209632,"MUEHLENA - Joel Rene Muehlena"
 209666,"SHAKHMIN-AS - Shakhmin Alexandr Sergeevich"
-209687,"KVANT2 - Igra-Service LLC"
 209713,"YRA-MURM - Game Insight UAB"
 209737,"AS209737 - Meric Internet Teknolojileri A.S."
 209741,
@@ -3681,7 +3680,7 @@ ASN,Name
 263426,"-Reserved AS-"
 263441,"MA SOLUCOES EM TECNOLOGIA LTDA - ME"
 263446,"AZULNET INFORMATICA LTDA"
-263454,"Ines Waltmann - Me"
+263454,"-Reserved AS-"
 263464,"Souza Cortes Elet. Elet. Ltda ME"
 263469,"J P de Souza Telecomunicacoes EPP"
 263493,"J. A. OLIVATTI COMUNICACAO MULTIMIDIA"
@@ -4090,7 +4089,7 @@ ASN,Name
 266969,"Shimabukuro &amp; Zanguettin Ltda ME"
 266971,"Rede Megas Internet"
 266973,"Provnet Internet Ltda"
-266975,
+266975,"EURONET TELECOM"
 266976,"Miyata &amp; Matsushita LTDA ME"
 266986,"OLV BRASIL COMERCIO E SERVICOS LTDA"
 266987,"Web - Link Telecomunicacoes e Engenharia"
@@ -4359,7 +4358,7 @@ ASN,Name
 268542,"-Reserved AS-"
 268547,"Infortread Telecom"
 268554,"CDM TELECOM"
-268555,"CABONNET INTERNET LTDA"
+268555,"-Reserved AS-"
 268559,"O.I ADEYEYE COMERCIO"
 268564,"Virtex Telecom"
 268571,"AxtelFibra Internet"
@@ -4660,7 +4659,7 @@ ASN,Name
 270283,"MIX NET INFORMATICA LTDA. ME"
 270286,"CONECT ISP - SERVICOS DE COMUNICACAO MULTIMID LTDA"
 270287,"BC TELECOM"
-270288,
+270288,"WISP SOLUCOES DE ACESSO LTDA"
 270301,"CONNECT WORLD TELECOM EIRELI"
 270308,"MUNICIPIO DE MACAE"
 270311,"BSB Link Fibra"
@@ -4794,7 +4793,7 @@ ASN,Name
 270633,"a j ribeiro telecomunicacoes"
 270635,"Hub Telecom"
 270638,"Sellnet Telecom"
-270644,"Lagoanet Telecomunicacoes"
+270644,
 270645,"Alctel Telecomunicacoes e Informatica Ltda"
 270667,"Omega Tech Internet"
 270669,"ATTENTO NET TELECOM"
